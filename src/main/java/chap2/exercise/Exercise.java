@@ -1,4 +1,4 @@
-package chap2;
+package chap2.exercise;
 
 import static java.util.stream.Collectors.toList;
 import static org.junit.Assert.assertEquals;
